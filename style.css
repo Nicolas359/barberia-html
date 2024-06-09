@@ -38,13 +38,14 @@ nav a {
 }
 
 nav a:hover {
-    color:#c78c19
+    color:#c78c19;
 }
 
 .servicios{
     width:940px;
     margin: 0 auto;
     padding: 50px;
+    background-color: red;
 }
 
 .servicios li{
